@@ -1,4 +1,4 @@
-# flutterassignment
+# GET BETTER
 
 A new Flutter project.
 
